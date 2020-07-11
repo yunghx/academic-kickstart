@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate in Computer Vision, Medical Imaging and Computer-assited Intervention. 
+role: Ph.D. Candidate in Computer Vision, Medical Imaging Computing and Computer-assited Intervention. 
 
 # Organizations/Affiliations
 organizations:
 - name: Eindhoven University of Technology
+- name: Philips Research
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Artificial Intelligence
