@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: MsC in Electrical Engineering, Signal Processing & Pattern Recognition
+  - course: MSc. in Electrical Engineering, Signal Processing & Pattern Recognition
     institution: Eindhoven University of Technology
     year: 2016
   - course: B.Eng in Electrical Engineering, Photonics & Optics
