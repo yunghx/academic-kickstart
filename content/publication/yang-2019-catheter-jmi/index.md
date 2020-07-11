@@ -5,7 +5,7 @@ publishDate: 2020-07-11T15:21:17.261738Z
 authors: ["Hongxu Yang", "Caifeng Shan", "Arash Pourtaherian", "Alexander F Kolen", " others"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Journal of Medical Imaging*"
 ---
 

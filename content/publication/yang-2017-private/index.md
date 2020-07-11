@@ -5,7 +5,7 @@ publishDate: 2020-07-11T15:21:17.258352Z
 authors: ["Hongxu Yang", "Vojkan Mihajlović", "Tanya Ignatenko"]
 publication_types: ["1"]
 abstract: ""
-featured: false
+featured: true
 publication: "*2017 25th European Signal Processing Conference (EUSIPCO)*"
 ---
 

@@ -5,7 +5,7 @@ publishDate: 2020-07-11T15:21:17.261223Z
 authors: ["Hongxu Yang", "Caifeng Shan", "Alexander F Kolen", "Peter HN de With"]
 publication_types: ["1"]
 abstract: ""
-featured: false
+featured: true
 publication: "*2018 25th IEEE International Conference on Image Processing (ICIP)*"
 ---
 

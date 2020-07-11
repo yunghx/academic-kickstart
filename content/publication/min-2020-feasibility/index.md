@@ -5,7 +5,7 @@ publishDate: 2020-07-11T15:21:17.264820Z
 authors: ["Lan Min", "Hongxu Yang", "Caifeng Shan", "Alexander F Kolen", " others"]
 publication_types: ["1"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Medical Imaging 2020: Image-Guided Procedures, Robotic Interventions, and Modeling*"
 ---
 

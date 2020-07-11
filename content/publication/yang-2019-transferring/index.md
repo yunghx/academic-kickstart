@@ -5,7 +5,7 @@ publishDate: 2020-07-11T15:21:17.262231Z
 authors: ["Hongxu Yang", "Caifeng Shan", "Tao Tan", "Alexander F Kolen", " others"]
 publication_types: ["1"]
 abstract: ""
-featured: false
+featured: true
 publication: "*International Conference on Medical Image Computing and Computer-Assisted Intervention*"
 ---
 
