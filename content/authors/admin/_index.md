@@ -14,9 +14,9 @@ role: Ph.D. Candidate in Computer Vision, Medical Imaging Computing and Computer
 
 # Organizations/Affiliations
 organizations:
-- name: Eindhoven University of Technology
-- name: Philips Research
-  url: ""
+- name: Eindhoven University of Technology & Philips Research
+  url: "https://research.tue.nl/en/persons/hongxu-yang"
+
 
 # Short bio (displayed in user profile at end of posts)
 
