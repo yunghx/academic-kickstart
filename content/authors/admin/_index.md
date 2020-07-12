@@ -24,15 +24,19 @@ interests:
 - Artificial Intelligence
 - Computer Vision
 - MICCAI
+- Ultrasound
 
 education:
   courses:
+  - course: Ph.D. Candidate in Electrical Engineering & Computer Vision
+    institution: Eindhoven University of Technology
+    year: 2016-Now
   - course: MSc. in Electrical Engineering, Signal Processing & Pattern Recognition
     institution: Eindhoven University of Technology
-    year: 2016
+    year: 2014-2016
   - course: B.Eng in Electrical Engineering, Photonics & Optics
     institution: Tianjin University & Nankai University
-    year: 2014
+    year: 2010-2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
