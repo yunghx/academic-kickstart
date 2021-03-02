@@ -65,4 +65,4 @@ user_groups:
 #- Researchers
 #- Visitors
 ---
-I am currently a Ph.D. candidate in Computer Vision and MICCAI at TU Eindhoven. With 10+ international conferences, journal papers and patents, I am also being as a reviewer for IEEE J-BHI, MICCAI and AE-CAI.
+I am currently a Ph.D. candidate in Computer Vision and MICCAI at TU Eindhoven. With 10+ international conferences, journal papers and patents, I am also being as a reviewer for Medical Image Analysis, IEEE J-BHI, MICCAI and AE-CAI.
